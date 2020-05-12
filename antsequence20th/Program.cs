@@ -10,6 +10,7 @@ namespace antsequence20th
     {
         static void Main(string[] args)
         {
+            //개미수열
             String sequence = "1";
             int n = 1;
             while(n<=20)
